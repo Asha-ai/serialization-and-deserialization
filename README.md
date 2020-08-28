@@ -25,3 +25,6 @@ YAML is my favorite format. It is a human-friendly data serialization format. Un
 
 The dill package extends the functionality of pickle by enabling the serialization of a much larger set of Python objects. 
 
+# Deep larning models serialization and deserialization
+pima_indian_diabets.csv used for demonstrating deep learning models using YAML and .h5  serializing deserializing models
+
