@@ -21,3 +21,7 @@ The first tool we describe is pickle the standard Python tool for object (de)ser
 ## Installation : pip install pyyaml
 YAML is my favorite format. It is a human-friendly data serialization format. Unlike Pickle and JSON, it is not part of the Python standard library, so you need to install it 
 
+# dill: 
+
+The dill package extends the functionality of pickle by enabling the serialization of a much larger set of Python objects. 
+
